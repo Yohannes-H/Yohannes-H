@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I am a web developer, currently working as a freelancer, I work on projects using technologies like React, Firebase. Redux, Next.js, and MongoDB
+I am a web developer, currently working as a freelancer, I work on projects using technologies like React, Firebase, Redux, Next.js, and MongoDB
 
 * 🌍  I'm based in Ethiopia
 * ✉️  You can contact me at [yohanneshdev21@gmail.com](mailto:yohanneshdev21@gmail.com)
